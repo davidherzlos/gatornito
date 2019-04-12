@@ -1,0 +1,25 @@
+header {
+  position: relative;
+  overflow: hidden;
+  background-image: url('../images/bg-cats.png');
+}
+h1, h2, h3, h4 {
+  font-family: 'Corben', cursive;
+}
+header h1 {
+  font-weight: bolder;
+  font-size: 6em;
+  letter-spacing: 10px;
+}
+header .row {
+  padding: 8em 0 10px 0;
+}
+.brand-logo figure {
+  width: 90px;
+}
+.brand-logo img {
+  width: 100%;
+}
+.activator {
+  width: 100%;
+}
